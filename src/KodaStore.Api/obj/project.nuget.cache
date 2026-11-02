@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CkcQ7iPJ5Do=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Flone\\Documents\\Kodakademy\\dotnet5\\src\\KodaStore.Api\\KodaStore.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flone\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "C:\\Users\\Flone\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
